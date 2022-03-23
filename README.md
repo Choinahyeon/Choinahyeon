@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hi!%20I'm%20Hyeon!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hi!%20I'm%20Na-Hyeon!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=333333)
 
 <br>
 <br>
