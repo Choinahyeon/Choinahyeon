@@ -18,12 +18,10 @@
   <img alt="Adobe Illustrator" src ="https://img.shields.io/badge/Adobe Illustrator-FF9A00.svg?&style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>&nbsp
   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
 <p>
-
-
-  
-  
-  <!--  
-Adobe Photoshop 
-Adobe Illustrator
-Adobe Lightroom
--->
+<br>
+<h3 align="center">🤍&#32;It Me!&#32;💙<h3>
+<p align="center">
+<a href="mailto:skgusdlekt@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=skgusdlekt@gmail.com"/></a>&nbsp
+ <a href="https://www.instagram.com/nnhyeon7410/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nnhyeon7410/"/></a>
+ 
+</p>
