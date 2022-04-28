@@ -28,4 +28,3 @@
 </p>
 <br>
 <br>
-[![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choinahyeon)](https://github.com/Choinahyeon/github-readme-stats)
