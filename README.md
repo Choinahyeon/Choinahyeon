@@ -21,7 +21,11 @@
 <br>
 <h3 align="center">🤍&#32;It Me!&#32;💙<h3>
 <p align="center">
-<a href="mailto:skgusdlekt@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=skgusdlekt@gmail.com"/></a>&nbsp
- <a href="https://www.instagram.com/nnhyeon7410/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nnhyeon7410/"/></a>
+ <a href="mailto:skgusdlekt@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=skgusdlekt@gmail.com"/></a>&nbsp
+ <a href="https://www.instagram.com/nnhyeon7410/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nnhyeon7410/"/></a><br>
+ <a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoinahyeon%2F&count_bg=%23CECECE&title_bg=%23023F92&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
 </p>
 <br>
+<br>
+[![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choinahyeon)](https://github.com/Choinahyeon/github-readme-stats)
